@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="classRounded.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormAnalytics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDashboards.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSignup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundedButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="roundedpanel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
